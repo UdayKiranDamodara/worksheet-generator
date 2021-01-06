@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/worksheet-generator/static/css/main.556c60f4.chunk.css",
-    "main.js": "/worksheet-generator/static/js/main.bd1d04a3.chunk.js",
-    "main.js.map": "/worksheet-generator/static/js/main.bd1d04a3.chunk.js.map",
+    "main.js": "/worksheet-generator/static/js/main.c570d357.chunk.js",
+    "main.js.map": "/worksheet-generator/static/js/main.c570d357.chunk.js.map",
     "runtime-main.js": "/worksheet-generator/static/js/runtime-main.33e63edf.js",
     "runtime-main.js.map": "/worksheet-generator/static/js/runtime-main.33e63edf.js.map",
     "static/js/2.12c8d164.chunk.js": "/worksheet-generator/static/js/2.12c8d164.chunk.js",
     "static/js/2.12c8d164.chunk.js.map": "/worksheet-generator/static/js/2.12c8d164.chunk.js.map",
     "index.html": "/worksheet-generator/index.html",
-    "precache-manifest.ed7c39f81d1aac195088d77b94f8010e.js": "/worksheet-generator/precache-manifest.ed7c39f81d1aac195088d77b94f8010e.js",
+    "precache-manifest.e8b7a4f9cd220e6e080879984f43e5d3.js": "/worksheet-generator/precache-manifest.e8b7a4f9cd220e6e080879984f43e5d3.js",
     "service-worker.js": "/worksheet-generator/service-worker.js",
     "static/css/main.556c60f4.chunk.css.map": "/worksheet-generator/static/css/main.556c60f4.chunk.css.map",
     "static/js/2.12c8d164.chunk.js.LICENSE.txt": "/worksheet-generator/static/js/2.12c8d164.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.33e63edf.js",
     "static/js/2.12c8d164.chunk.js",
     "static/css/main.556c60f4.chunk.css",
-    "static/js/main.bd1d04a3.chunk.js"
+    "static/js/main.c570d357.chunk.js"
   ]
 }
